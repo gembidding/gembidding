@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gem Enterprises and Services</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f6f7;
+    color: #102542;
+}
+
+header {
+    background: linear-gradient(135deg, #0B1F3A, #1E3A5F);
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+header h1 {
+    margin: 0;
+    color: #D4AF37;
+    font-size: 42px;
+}
+
+header p {
+    margin-top: 8px;
+    font-size: 18px;
+}
+
+.hero {
+    background: #102542;
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.hero h2 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.hero span {
+    color: #D4AF37;
+}
+
+.hero p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 14px 30px;
+    margin: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.call {
+    background: #D4AF37;
+    color: #102542;
+}
+
+.whatsapp {
+    background: #25D366;
+    color: white;
+}
+
+.section {
+    max-width: 1200px;
+    margin: auto;
+    padding: 60px 20px;
+}
+
+.section h2 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 36px;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+footer {
+    background: #0B1F3A;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Gem Enterprises and Services</h1>
+    <p>Your Success, Our Commitment</p>
+</header>
+
+<section class="hero">
+    <h2>Professional <span>GeM Portal</span> Consultancy Services</h2>
+    <p>Registration | OEM Support | Vendor Assessment | Bid Participation</p>
+
+    <a href="tel:+919603244159" class="btn call">Call Now</a>
+    <a href="https://wa.me/919603244159" class="btn whatsapp">WhatsApp Now</a>
+</section>
+
+<section class="section">
+    <h2>Our Services</h2>
+
+    <div class="cards">
+        <div class="card">
+            <h3>GeM Registration</h3>
+            <p>Complete seller registration support.</p>
+        </div>
+
+        <div class="card">
+            <h3>OEM Registration</h3>
+            <p>OEM panel creation and management.</p>
+        </div>
+
+        <div class="card">
+            <h3>Vendor Assessment</h3>
+            <p>Professional assessment assistance.</p>
+        </div>
+
+        <div class="card">
+            <h3>Bid Participation</h3>
+            <p>Unlimited bid submission support.</p>
+        </div>
+
+        <div class="card">
+            <h3>Tender Consultancy</h3>
+            <p>End-to-end E-Tender support.</p>
+        </div>
+
+        <div class="card">
+            <h3>Pan India Support</h3>
+            <p>Services available across India.</p>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <h2>Why Choose Us?</h2>
+
+    <div class="cards">
+        <div class="card">
+            <h3>12+ Years Experience</h3>
+            <p>Strong experience in E-Tendering.</p>
+        </div>
+
+        <div class="card">
+            <h3>6+ Years in GeM</h3>
+            <p>Specialized GeM consultancy.</p>
+        </div>
+
+        <div class="card">
+            <h3>Trusted Support</h3>
+            <p>Fast and reliable service.</p>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <h2>Contact Us</h2>
+
+    <div class="card">
+        <p><strong>Phone:</strong> +91 9603244159</p>
+        <p><strong>Email:</strong> gembidding2025@gmail.com</p>
+        <p><strong>Address:</strong> Ameerpet, Hyderabad</p>
+        <p><strong>Website:</strong> gembidding.com</p>
+    </div>
+</section>
+
+<footer>
+    © 2026 Gem Enterprises and Services. All Rights Reserved.
+</footer>
+
+</body>
+</html>
